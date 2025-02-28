@@ -6,7 +6,6 @@ inputFile3 <- "cluster_3_DOWN.csv"
 inputFile4 <- "cluster_1_DOWN.csv"
 inputFile5 <- "cluster_2_DOWN.csv"
 inputFile6 <- "cluster_3_DOWN.csv"
-
 inputFile7 <- "cluster_1_UP.csv"
 inputFile8 <- "cluster_2_UP.csv"
 inputFile9 <- "cluster_3_UP.csv"
